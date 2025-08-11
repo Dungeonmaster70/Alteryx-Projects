@@ -1,0 +1,4 @@
+Transaction_ID,User_ID,Transaction_Amount,Transaction_Date,Transaction_Time,Transaction_Location,Merchant_ID,Device_ID,Card_Type,Transaction_Currency,Transaction_Status,Previous_Transaction_Count,Distance_Between_Transactions_km,Time_Since_Last_Transaction_min,Authentication_Method,Transaction_Velocity,Transaction_Category,isFraud
+1001,501,250.5,2025-08-01,14:35:00,New York,M123,D451,Visa,USD,Approved,3,2.5,120,PIN,1.2,Shopping,0
+1002,502,1050.0,2025-08-02,09:15:00,Chicago,M456,D872,MasterCard,USD,Declined,10,500.0,30,OTP,10.5,Transfer,1
+1003,503,75.0,2025-08-02,19:45:00,Los Angeles,M789,D999,Visa,USD,Approved,1,0.5,300,PIN,0.5,Shopping,0
